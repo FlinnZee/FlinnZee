@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Grands Tech Pvt Ltd.<br>🌱 I’m currently learning Matchine Learning Mobile app developement and System Designing<br>💬 Ask me about designing, Programming and Project Management Questions<br>⚡ Fun fact
+🔭 💬 Ask me about designing, Programming and Project Management Questions<br>⚡ Fun fact
 
 
 ## 🌐 Socials:

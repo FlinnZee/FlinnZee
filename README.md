@@ -80,17 +80,6 @@ $ cat now.txt
 
 ---
 
-### Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/theekshana-nirmal)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/hellz_yy)
-[![TikTok](https://img.shields.io/badge/TikTok-0D1117?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@urfav_nirmal)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/FlinnZee)
-
-</div>
-
 <div align="center">
 <sub>
 
